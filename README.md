@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -24,6 +24,10 @@
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
