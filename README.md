@@ -27,7 +27,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -35,7 +35,7 @@
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -69,15 +69,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/OleksandrZadvornyi"><img alt="Oleksandr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=OleksandrZadvornyi&custom_title=Oleksandr%20Zadvornyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 </details>
 
 <br/>
