@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h3 align="center">My name is Oleksandr, I am a Software Engineering Undergraduate Student from Ukraine, currently working on web development technologies like JavaScript, React etc.</h4>
+<h3 align="center">My name is Oleksandr, I am a Software Engineering Undergraduate Student from Ukraine, currently working on web development.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OleksandrZadvornyi&label=Profile%20views&color=0e75b6&style=plastic" alt="Oleksandr" /> </p>
 
