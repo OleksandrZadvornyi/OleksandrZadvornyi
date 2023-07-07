@@ -55,9 +55,6 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Oleksandr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OleksandrZadvornyi&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OleksandrZadvornyi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Oleksandr Zadvornyi" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -70,13 +67,4 @@
 <p align="center">
 	<a href="mailto:zadvornyi.alex16@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/OleksandrZadvornyi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	
 </p>
-
-
-
-
-
-
-
-
