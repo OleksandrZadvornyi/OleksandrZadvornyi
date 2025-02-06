@@ -1,19 +1,21 @@
+<p align="center">
+ <img src="./display-grid-my-beloved.gif" alt="animated" />
+</p>
 
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
-<h3 align="center">My name is Oleksandr, I am a Software Engineering Undergraduate Student from Ukraine, currently interested in web development.</h4>
+<h3 align="center">My name is Oleksandr, I am a Software Engineering student, currently interested in web development.</h4>
 
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrZadvornyi&theme=algolia" alt="Oleksandr"  /></p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrZadvornyi&theme=algolia" alt="Oleksandr"  />
 
 
 
-## 📊 Github Stats (Expand to View) 
- 
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br/>
+## 💻 GitHub Profile Stats
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OleksandrZadvornyi&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Oleksandr Zadvornyi" height="192px"/>
 <br/>
 <br/>
