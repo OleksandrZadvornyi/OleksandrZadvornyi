@@ -74,8 +74,8 @@ Software engineering student interested in web development and creating engaging
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=OleksandrZadvornyi&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&theme=algolia">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrZadvornyi&layout=compact&hide_border=true&bg_color=00000000&theme=algolia&langs_count=6&exclude_repo=Pacman-AI">
+  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrZadvornyi&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrZadvornyi&layout=compact&hide_border=true&bg_color=00000000&theme=algolia&langs_count=6&exclude_repo=Pacman-AI">
 </div>
 
 ## 📫 Connect With Me
