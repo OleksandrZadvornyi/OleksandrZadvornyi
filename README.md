@@ -86,11 +86,3 @@ Software engineering student interested in web development and creating engaging
   <a href="https://t.me/oleksandr_zadvornyi"><img src="https://img.icons8.com/?size=50&id=112159&format=png&color=000000" alt="Telegram"/></a>
   <a href="https://discord.com/users/405029913205276673"><img src="https://img.icons8.com/?size=50&id=114892&format=png&color=000000" alt="Discord"/></a>
 </div>
-
-<details>
-  <summary>❤️</summary>
-  <div align="center">
-    <img src="./assets/display-grid-my-beloved.gif" alt="Display Grid My Beloved" />
-    <p><i>Good layout is the foundation of great design</i></p>
-  </div>
-</details>
