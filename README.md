@@ -4,9 +4,9 @@ Software engineering student passionate about building clean, performant web app
 
 ## 🧑‍💻 About Me
 
-* Currently prioritizing **Python** and **JavaScript** development.
-* Clean code architecture, modern web frameworks and creating engaging user experiences.
-* Exploring advanced design systems and accessible application development.
+* **Focus:** Currently prioritizing **Python** and **JavaScript** development.
+* **Interests:** Clean code architecture, modern web frameworks, and creating engaging user experiences.
+* **Goals:** Exploring advanced design systems and accessible application development.
 
 ## 🛠️ Tech Stack
 
@@ -31,5 +31,6 @@ Software engineering student passionate about building clean, performant web app
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:zadvornyi.alex16@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/OleksandrZadvornyi)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/oleksandr-zadvornyi-ab955131a)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/oleksandr_zadvornyi)
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/405029913205276673)
