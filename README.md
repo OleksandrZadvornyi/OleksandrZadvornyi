@@ -1,21 +1,33 @@
 # Hi, I'm Oleksandr! 👋
 
-Software Engineer and Master of Software Engineering graduate, passionate about building clean, performant web applications and scalable solutions.
+Software Engineer and Master of Software Engineering graduate. I am passionate about building web applications, designing robust test automation frameworks and exploring deep learning solutions for time-series data.
 
 ## 🧑‍💻 About Me
 
-* **Focus:** specializing in **Python**, **C++**, and **JavaScript** development.
-* **Interests:** clean code architecture, modern web frameworks, and creating engaging user experiences.
-* **Goals:** exploring advanced design systems and accessible application development.
+* **Focus:** specializing in **Python**, **TypeScript/JavaScript** and **C++**.
+* **Specialties:** Full-stack Development (MERN), QA Automation (WebdriverIO) and Data Science (Time Series & Topological Analysis).
+* **Current Interests:** Large Language Model (LLM) evaluation, clean architecture and reactive frontend systems.
 
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Testing** | ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend & DB** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Dask](https://img.shields.io/badge/Dask-FD7900?style=for-the-badge&logo=dask&logoColor=white) ![GluonTS](https://img.shields.io/badge/GluonTS-blue?style=for-the-badge) |
+| **QA & Tools** | ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[fire-gallery](https://github.com/OleksandrZadvornyi/fire-gallery)** | Modern image gallery with seamless photo management and authentication. | React, TypeScript, Firebase, Tailwind |
+| **[weather-forecasting](https://github.com/OleksandrZadvornyi/weather-forecasting)** | Deep learning forecasting for daily max temperatures using Time Series Transformers. | Python, PyTorch, GluonTS, HuggingFace |
+| **[eeg-analysis](https://github.com/OleksandrZadvornyi/eeg)** | Automated epileptic seizure detection framework using Topological Data Analysis. | Python, Streamlit, Random Forest, MNE |
+| **[kal-hans-backend](https://github.com/OleksandrZadvornyi/kal-hans-backend)** | RESTful API backend for a skincare e-commerce platform. | Node.js, Express, TypeScript, MongoDB |
+| **[webdriver-demo](https://github.com/OleksandrZadvornyi/webdriver-demo)** | Robust test automation framework using the Page Object Model (POM) pattern. | JavaScript, WebdriverIO, Selenium |
+| **[audiorecorder](https://github.com/OleksandrZadvornyi/audiorecorder)** | Enhanced Audio Recorder implementing 5+ classic design patterns (Observer, Command, etc). | C++, Qt Framework |
 
 ## 📊 GitHub Stats
 
