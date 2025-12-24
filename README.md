@@ -23,8 +23,8 @@ Software engineering student passionate about building clean, performant web app
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OleksandrZadvornyi&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&theme=algolia" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrZadvornyi&layout=compact&hide_border=true&bg_color=00000000&theme=algolia&langs_count=6&exclude_repo=Pacman-AI" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=OleksandrZadvornyi&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&theme=algolia" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OleksandrZadvornyi&layout=compact&hide_border=true&bg_color=00000000&theme=algolia&langs_count=6&exclude_repo=Pacman-AI" height="150" alt="languages graph" />
 </p>
 
 ## 📫 Connect With Me
