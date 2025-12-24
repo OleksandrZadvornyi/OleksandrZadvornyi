@@ -18,17 +18,6 @@ Software Engineer and Master of Software Engineering graduate. I am passionate a
 | **Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Dask](https://img.shields.io/badge/Dask-FD7900?style=for-the-badge&logo=dask&logoColor=white) |
 | **QA & Tools** | ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[fire-gallery](https://github.com/OleksandrZadvornyi/fire-gallery)** | Modern image gallery with seamless photo management and authentication. | React, TypeScript, Firebase, Tailwind |
-| **[weather-forecasting](https://github.com/OleksandrZadvornyi/weather-forecasting)** | Deep learning forecasting for daily max temperatures using Time Series Transformers. | Python, PyTorch, GluonTS, HuggingFace |
-| **[eeg-analysis](https://github.com/OleksandrZadvornyi/eeg)** | Automated epileptic seizure detection framework using Topological Data Analysis. | Python, Streamlit, Random Forest, MNE |
-| **[kal-hans-backend](https://github.com/OleksandrZadvornyi/kal-hans-backend)** | RESTful API backend for a skincare e-commerce platform. | Node.js, Express, TypeScript, MongoDB |
-| **[webdriver-demo](https://github.com/OleksandrZadvornyi/webdriver-demo)** | Robust test automation framework using the Page Object Model (POM) pattern. | JavaScript, WebdriverIO, Selenium |
-| **[audiorecorder](https://github.com/OleksandrZadvornyi/audiorecorder)** | Enhanced Audio Recorder implementing 5+ classic design patterns (Observer, Command, etc). | C++, Qt Framework |
-
 ## 📊 GitHub Stats
 
 <p align="left">
